@@ -1,0 +1,23 @@
+{
+  "name": "qxjsswignpm1",
+  "version": "1.0.0",
+  "description": "first swig js npm proj",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qxred/qxjsswignpm1.git"
+  },
+  "keywords": [
+    "swig",
+    "js"
+  ],
+  "author": "qx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qxred/qxjsswignpm1/issues"
+  },
+  "homepage": "https://github.com/qxred/qxjsswignpm1#readme"
+}
